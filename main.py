@@ -1549,4 +1549,4 @@ while True:
         print('=' * 42)
         print('                  ')
     else:
-        print("Deseja fazer outro calculo!")
+        print("Deseja fazer mais algum calculo!")
